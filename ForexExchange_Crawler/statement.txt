@@ -1,0 +1,4 @@
+notice:
+Before run or pack the crawling program, 
+Please configure the information of database, 
+Also create the database table in db.
