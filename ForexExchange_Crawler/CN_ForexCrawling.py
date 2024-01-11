@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 ''' Python Spider grab the exchange data '''
+### developed by Jansen Liu
 # import openpyxl
 from selenium import webdriver
 from bs4 import BeautifulSoup
